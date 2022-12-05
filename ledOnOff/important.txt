@@ -1,0 +1,16 @@
+Blynk Template Details : 
+  #define BLYNK_TEMPLATE_ID "TMPL5CAuowxM"
+  #define BLYNK_DEVICE_NAME "LED"
+  #define BLYNK_AUTH_TOKEN "eSxPDouedoJUVTz-lAzfSJSJguoWr0ap"
+
+The Credentials For Wireless Fidility (WiFi):
+  ssid : compLab
+  password : @dmin@123
+
+To Use Application Programming Interface (API):
+  Update V0 (led on/off) Virtual Pin:
+    On:
+      https://blynk.cloud/external/api/update?token=eSxPDouedoJUVTz-lAzfSJSJguoWr0ap&v0=0
+    Off:
+      https://blynk.cloud/external/api/update?token=eSxPDouedoJUVTz-lAzfSJSJguoWr0ap&v0=1
+      
