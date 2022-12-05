@@ -13,4 +13,5 @@ To Use Application Programming Interface (API):
       https://blynk.cloud/external/api/update?token=eSxPDouedoJUVTz-lAzfSJSJguoWr0ap&v0=0
     Off:
       https://blynk.cloud/external/api/update?token=eSxPDouedoJUVTz-lAzfSJSJguoWr0ap&v0=1
-      
+    Update:
+      https://blynk.cloud/external/api/get?token=eSxPDouedoJUVTz-lAzfSJSJguoWr0ap&v0
